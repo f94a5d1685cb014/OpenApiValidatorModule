@@ -1,7 +1,7 @@
 {
     "name": "bajuju67/open-api-validator-module",
     "type": "library",
-    "description": "league/openapi-psr7-validator module for Codeception.",
+    "description": "OpenAPI validation module for Codeception.",
     "keywords": [
         "OpenAPI 3.0",
         "Swagger",
