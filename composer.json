@@ -17,6 +17,7 @@
         }
     ],
     "require": {
+        "php": ">=7.4",
         "codeception/codeception" : "*",
         "league/openapi-psr7-validator": "^0.16.1",
         "guzzlehttp/guzzle": "*"
