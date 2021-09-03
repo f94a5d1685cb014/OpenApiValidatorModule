@@ -18,7 +18,8 @@
     ],
     "require": {
         "codeception/codeception" : "*",
-        "league/openapi-psr7-validator": "^0.16.1"
+        "league/openapi-psr7-validator": "^0.16.1",
+        "guzzlehttp/guzzle": "*"
     },
     "autoload": {
         "psr-4": {
