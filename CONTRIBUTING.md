@@ -2,7 +2,7 @@
 
 Contributions are **welcome** and will be fully **credited**.
 
-We accept contributions via Pull Requests on [Github](https://github.com/:vendor/:package_name).
+We accept contributions via Pull Requests on [Github](https://github.com/bajuju67/open-api-validator-module).
 
 
 ## Pull Requests
