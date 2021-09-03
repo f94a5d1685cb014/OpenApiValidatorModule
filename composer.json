@@ -3,8 +3,10 @@
     "type": "library",
     "description": "league/openapi-psr7-validator module for Codeception.",
     "keywords": [
-        "bajuju67",
-        "OpenApiValidatorModule"
+        "OpenAPI 3.0",
+        "Swagger",
+        "openapi-psr7-validator",
+        "OpenAPI validation"
     ],
     "homepage": "https://github.com/bajuju67/OpenApiValidatorModule",
     "license": "MIT",
